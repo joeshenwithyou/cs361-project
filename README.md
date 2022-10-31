@@ -44,3 +44,5 @@ numbers.
 5. The first line of results.txt with contain "mean=SOMENUMBER" and the second line of results.txt will contain
 "mode=SOMENUMBER,".
   Note: Mode may have multiple values separated by a comma.
+
+![MicroserviceUML (1)](https://user-images.githubusercontent.com/91208436/199116841-08b1ad31-6cc8-4206-af53-f41e34e359ff.jpg)
